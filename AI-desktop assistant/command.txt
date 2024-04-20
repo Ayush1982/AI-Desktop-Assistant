@@ -1,0 +1,10 @@
+what is the time : for time
+open : open website "homepage"
+search : for search on google
+open app: for execute any "install" app
+open music: from a fixed folder, start playing only ".mp3" music
+open video: from a fixed folder, start playing only ".mp4" video
+"help" or "tell" : gives a proper response and well doc file for response
+shut down : shut down pc 
+quit : quit the program
+"any thing else" will activate voice chat mode 
